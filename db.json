@@ -1,0 +1,74 @@
+{
+  "categories":[
+  {
+    "id": 1,
+    "name": "Divers"
+  },
+  {
+    "id": 2,
+    "name": "Business"
+  },
+  {
+    "id": 3,
+    "name": "Politique"
+  },
+  {
+    "id": 4,
+    "name": "Musique"
+  },
+  {
+    "id": 5,
+    "name": "Culture"
+  },
+  {
+    "id": 6,
+    "name": "Technologie"
+  },
+  {
+    "id": 8,
+    "name": "Vie Sociale"
+  }
+]
+},
+{
+"podcasts": 
+[
+  {
+    "id": 1,
+    "title": "Noujoum",
+    "description": "lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd ",
+    "publishedAt": "20-02-2022",
+    "category": {
+      "name": "Divers"
+    }
+  },
+  {
+    "id": 2,
+    "title": "3ala kol lsen",
+    "description": "lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd",
+    "publishedAt": "20-02-2022",
+    "category": {
+      "name": "Divers"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Jaweb hamza",
+    "description": "lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd",
+    "publishedAt": "20-02-2022",
+    "category": {
+      "name": "Business"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Forum",
+    "description": "lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd lorem ipsum dolser mqkdmqmlkm mqsdqsdmkqsd",
+    "publishedAt": "20-02-2022",
+    "category": {
+      "name": "Politique"
+    }
+  }
+]
+
+}
