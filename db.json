@@ -3,30 +3,6 @@
       {
         "id": 1,
         "name": "Divers"
-      },
-      {
-        "id": 2,
-        "name": "Business"
-      },
-      {
-        "id": 3,
-        "name": "Politique"
-      },
-      {
-        "id": 4,
-        "name": "Musique"
-      },
-      {
-        "id": 5,
-        "name": "Culture"
-      },
-      {
-        "id": 6,
-        "name": "Technologie"
-      },
-      {
-        "id": 8,
-        "name": "Vie Sociale"
       }
     ]
 }
